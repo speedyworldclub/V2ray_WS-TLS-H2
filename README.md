@@ -68,6 +68,11 @@ Vmess+websocket+TLS+Nginx+Website
 ```
 wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
 ```
+```
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/speedyworldclub/V2ray_WS-TLS-H2/master/install.sh" && chmod +x install.sh && bash install.sh
+```
+
+
 ### 启动方式
 
 启动 V2ray：`systemctl start v2ray`
